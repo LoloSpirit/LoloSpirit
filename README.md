@@ -1,13 +1,3 @@
-<h1 align="left"></h1>
-
-###
-
-<p align="left">I'm Lorenz</p>
-
-###
-
-<h2 align="left"></h2>
-
 ###
 
 <div align="left">
