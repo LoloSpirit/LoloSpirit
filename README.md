@@ -10,7 +10,7 @@
 
 <p align="left">Currently in my Master's (postgrad): Physics and Technology for Space Applications<br><br>Working as a Virtual Reality Software Developer at Cognilize on the side<br><br>I enjoy studying, coding, problem-solving and using Unity for visualisation.</p>
 
-[my_resume](./CV_Saalmann.pdf)
+[my_resume](https://github.com/LoloSpirit/Resume)
 
 ###
 
